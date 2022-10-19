@@ -1,4 +1,4 @@
-from machinetranslation import english_to_french, french_to_english
+import machinetranslation
 from flask import Flask, render_template, request
 import json
 
